@@ -1,0 +1,9 @@
+{
+	"name" : "Network Diagram With Logo",
+	"description" : "Network diagram with logo extension base on Spero's network diagram",
+	"icon" : "extension",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Wuzhong-Qlik"
+}
